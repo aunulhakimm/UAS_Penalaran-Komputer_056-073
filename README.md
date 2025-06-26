@@ -26,12 +26,12 @@ Proyek ini merupakan implementasi metode *Case-Based Reasoning (CBR)* untuk mela
 
 | Tahap | Deskripsi |
 |------|-----------|
-| **Tahap 1** | Buka folder *notebook* dan perhatikan nama filenya. |
-| **Tahap 2** | Setiap file sudah diberi nama dengan tahapannya masing-masing dan urut dari tahap 1 - 5. |
-| **Tahap 3** | Buka setiap file di Google Colab. |
-| **Tahap 4** | Buka Drive dan buat folder secara manual di MyDrive, folder direktori yang perlu dibuat adalah sebagai berikut: SEMESTER 6/Penalaran Komputer/UAS_Penalaran Komputer |
-| **Tahap 5** | Jika sudah, maka letakkan folder *data* *PDF* *CSV* di direktori tersebut. |
-| **Tahap 6** | Jalankan notebook seperti biasa dan sesuai tahapan. |
+| **1** | Buka folder *notebook* dan perhatikan nama filenya. |
+| **2** | Setiap file sudah diberi nama dengan tahapannya masing-masing dan urut dari tahap 1 - 5. |
+| **3** | Buka setiap file di Google Colab. |
+| **4** | Buka Drive dan buat folder secara manual di MyDrive, folder direktori yang perlu dibuat adalah sebagai berikut: SEMESTER 6/Penalaran Komputer/UAS_Penalaran Komputer |
+| **5** | Jika sudah, maka letakkan folder *data* *PDF* *CSV* di direktori tersebut. |
+| **6** | Jalankan notebook seperti biasa dan sesuai tahapan. |
 
 ## 🔁 TAHAPAN NOTEBOOKS:
 
