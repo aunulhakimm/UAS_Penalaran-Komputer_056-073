@@ -1,0 +1,49 @@
+{
+  "dataset_info": {
+    "total_cases": 31,
+    "tfidf_features": 5000,
+    "bert_embedding_dim": 768,
+    "unique_jenis_perkara": 5,
+    "columns": [
+      "case_id",
+      "no_perkara",
+      "tanggal",
+      "jenis_perkara",
+      "pasal",
+      "pihak",
+      "ringkasan_fakta",
+      "argumen_hukum",
+      "length_kata",
+      "jumlah_pasal",
+      "mengandung_pidana",
+      "mengandung_penganiayaan",
+      "text_full",
+      "combined_text",
+      "retrieval_text"
+    ]
+  },
+  "split_info": {
+    "train_size": 21,
+    "test_size": 10,
+    "test_ratio": 0.3225806451612903
+  },
+  "model_info": {
+    "ml_model_trained": true,
+    "model_type": "SVC"
+  },
+  "evaluation": {
+    "num_test_queries": 10,
+    "tfidf_metrics": {
+      "hits_at_1": 0.0,
+      "hits_at_5": 0.0,
+      "mrr": 0.0,
+      "total_queries": 10
+    },
+    "bert_metrics": {
+      "hits_at_1": 0.0,
+      "hits_at_5": 0.0,
+      "mrr": 0.0,
+      "total_queries": 10
+    }
+  }
+}

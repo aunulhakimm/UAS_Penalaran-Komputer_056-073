@@ -1,0 +1,92 @@
+[
+  {
+    "query_id": "query_001",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\nP U T U S A NNomor 82/Pid.B/2025/PN MrkDEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan Negeri Merauke yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam",
+    "ground_truth_case_id": "20",
+    "expected_jenis_perkara": "Pidana Umum \n Pidana Umum  Penganiayaan",
+    "expected_pasal": "—",
+    "expected_no_perkara": "82/Pid.B/2025/PN Mrk",
+    "source_index": 13
+  },
+  {
+    "query_id": "query_002",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\nPENETAPANNomor 57/Pdt.P/2025/PA.AbDEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan Agama Ambon yang memeriksa dan mengadili perkaraPengesahan Perkawinan/Istbat Nikah yang terdaftar secara elektronik (e-court)pada tingkat pert",
+    "ground_truth_case_id": "39",
+    "expected_jenis_perkara": "Perdata Agama",
+    "expected_pasal": "—",
+    "expected_no_perkara": "57/Pdt.P/2025/PA.Ab",
+    "source_index": 30
+  },
+  {
+    "query_id": "query_003",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\n  P U T U S A NNomor 44/Pid.B/2025/PN BlgDEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan Negeri Balige yang mengadili perkara pidana dengan acarapemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai berikutdala",
+    "ground_truth_case_id": "19",
+    "expected_jenis_perkara": "Pidana Umum \n Pidana Umum  Penganiayaan",
+    "expected_pasal": "—",
+    "expected_no_perkara": "44/Pid.B/2025/PN Blg",
+    "source_index": 12
+  },
+  {
+    "query_id": "query_004",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\nP U T U S A NNomor 45/Pid.B/2025/PN BlgDEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan Negeri Balige yang mengadili perkara pidana dengan acarapemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai berikutdalam",
+    "ground_truth_case_id": "27",
+    "expected_jenis_perkara": "Pidana Umum \n Pidana Umum  Penganiayaan",
+    "expected_pasal": "—",
+    "expected_no_perkara": "45/Pid.B/2025/PN Blg",
+    "source_index": 20
+  },
+  {
+    "query_id": "query_005",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\nP U T U S A NNomor 49/PID/2025/PT GTODEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan Tinggi Gorontalo yang mengadili perkara pidana dalamperadilan tingkat banding telah menjatuhkan putusan dalam perkaraTerdakwa:1.Nama Lengka",
+    "ground_truth_case_id": "13",
+    "expected_jenis_perkara": "Pidana Umum \n Pidana Umum  Penganiayaan",
+    "expected_pasal": "—",
+    "expected_no_perkara": "49/PID/2025/PT GTO",
+    "source_index": 8
+  },
+  {
+    "query_id": "query_006",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\nHalaman 1 dari 21 Putusan Nomor 109/Pid.B/2025/PN Wtp  P U T U S A N Nomor 109/Pid.B/2025/PN Wtp  DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA   Pengadilan Negeri Watampone yang mengadili perkara pidana dengan acara pemeriksaan bia",
+    "ground_truth_case_id": "12",
+    "expected_jenis_perkara": "Pidana Umum \n Pidana Umum  Penganiayaan",
+    "expected_pasal": "—",
+    "expected_no_perkara": "109/Pid.B/2025/PN Wtp",
+    "source_index": 7
+  },
+  {
+    "query_id": "query_007",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\nPutusan Pidana Nomor 2/Pid.C/2025/PN Lbs Hal 1 dari 8  Nomor 2Pid.C/2025/PN Lbs Catatan dari persidangan terbuka untuk umum Pengadilan Negeri Lubuk Sikaping yang mengadili perkara tindak pidana ringan dengan acara pemeriksaan cepat dala",
+    "ground_truth_case_id": "26",
+    "expected_jenis_perkara": "Pidana Umum",
+    "expected_pasal": "—",
+    "expected_no_perkara": "2/Pid.C/2025/PN Lbs",
+    "source_index": 19
+  },
+  {
+    "query_id": "query_008",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\nP U T U S A NNomor 23/Pid.B/2025/PN NlaDEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan NegeriNamlea yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam p",
+    "ground_truth_case_id": "29",
+    "expected_jenis_perkara": "Pidana Umum \n Pidana Umum  Penganiayaan",
+    "expected_pasal": "—",
+    "expected_no_perkara": "23/Pid.B/2025/PN Nla",
+    "source_index": 22
+  },
+  {
+    "query_id": "query_009",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\nPENETAPANNomor 57/Pdt.P/2025/PA.AbDEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan Agama Ambon yang memeriksa dan mengadili perkaraPengesahan Perkawinan/Istbat Nikah yang terdaftar secara elektronik (e-court)pada tingkat pert",
+    "ground_truth_case_id": "28",
+    "expected_jenis_perkara": "Perdata Agama",
+    "expected_pasal": "—",
+    "expected_no_perkara": "57/Pdt.P/2025/PA.Ab",
+    "source_index": 21
+  },
+  {
+    "query_id": "query_010",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\n\n\nHalaman 1\n\nP U T U S A NNomor 89/Pid.B/2025/PN Bjb              DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan Negeri Banjarbaru yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan seb",
+    "ground_truth_case_id": "24",
+    "expected_jenis_perkara": "Pidana Umum \n Pidana Umum  Penganiayaan",
+    "expected_pasal": "—",
+    "expected_no_perkara": "89/Pid.B/2025/PN Bjb",
+    "source_index": 17
+  }
+]

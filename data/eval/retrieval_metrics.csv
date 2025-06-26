@@ -1,0 +1,4 @@
+query_id,ground_truth,top_k_hits,hit_at_1,hit_at_k
+query_001,case_001,"['case_005', 'case_001']",0,1
+query_002,case_002,['case_002'],1,1
+query_003,case_003,['case_010'],0,1
