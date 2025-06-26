@@ -1,0 +1,1 @@
+# UAS_Penalaran-Komputer_056-073
