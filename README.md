@@ -33,6 +33,8 @@ Proyek ini merupakan implementasi metode *Case-Based Reasoning (CBR)* untuk mela
 | **5** | Jika sudah, maka letakkan folder *data* *PDF* *CSV* di direktori tersebut. |
 | **6** | Jalankan notebook seperti biasa dan sesuai tahapan. |
 
+---
+
 ## 🔁 TAHAPAN NOTEBOOKS:
 
 | Tahap | Deskripsi |
@@ -43,6 +45,8 @@ Proyek ini merupakan implementasi metode *Case-Based Reasoning (CBR)* untuk mela
 | **Tahap 4 – Solution Reuse** | Penggunaan kembali solusi dari kasus terdekat menggunakan strategi *majority vote* untuk prediksi putusan. |
 | **Tahap 5 – Model Evaluation** | Evaluasi kuantitatif terhadap performa retrieval. |
 
+---
+
 ## ⚙️ TEKNOLOGI YANG DIGUNAKAN:
 
 - Python 3.x
@@ -51,6 +55,8 @@ Proyek ini merupakan implementasi metode *Case-Based Reasoning (CBR)* untuk mela
 - `scikit-learn` (TF-IDF)
 - `transformers`, `sentence-transformers` (BERT Embedding)
 - `pandas`, `numpy`, `matplotlib` (Analisis dan Visualisasi)
+
+---
 
 ## 📌 SUMBER
 
